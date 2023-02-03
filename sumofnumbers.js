@@ -1,4 +1,4 @@
-const testData = [1, 2, 3];
+const testData = [1, 2];
 
 function sumFor(data) {
   let sum = 0;
